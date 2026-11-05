@@ -17,7 +17,7 @@ Create or maintain a printable, tablet-friendly exam review guide. Read the [pro
 
 ## Typography and page design
 
-- Use a single-column layout by default. Use SimHei (黑体) for chapter, section, and other hierarchy headings; SimSun (宋体) for body text; and KaiTi (楷体) for tables and table headings, typeset text and labels added to figures, figure captions, and supplementary content. Retain the original lettering in handwritten notes and source screenshots. Aim for 11–12 pt body text and inspect ordinary content below 10.5 pt at page size.
+- Use a single-column layout by default. Use SimHei for chapter, section, and other hierarchy headings; SimSun for body text; and KaiTi for tables and table headings, typeset text and labels added to figures, figure captions, and supplementary content. Retain the original lettering in handwritten notes and source screenshots. Aim for 11–12 pt body text and inspect ordinary content below 10.5 pt at page size.
 - Use dotted leaders between table-of-contents entries and page numbers. Make short table headings and labels fit on one line whenever practical.
 - Place each original note image immediately before the detailed explanation of its matching topic. Add a necessary caption once when a topic begins. Keep continuation images together without repeating full captions or inserting fragment numbers; add a new heading when the topic actually changes.
 - Use complete, legible source tables when suitable. Otherwise typeset them with readable column widths, intact labels and rows, and clear continuation headings across pages.

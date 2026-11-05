@@ -100,7 +100,7 @@ For multiple closing images, place each on its own page in the order the user sp
 
 ## 7. Reusable `preamble.tex`
 
-Adapt this starting point to the installed TeX distribution and the user's font requirements. In this workflow, SimHei (黑体) is for headings, SimSun (宋体) for body text, and KaiTi (楷体) for tables, typeset figure labels and captions, and supplementary content. Original handwriting retains its source glyphs. If a font is unavailable, use a suitable installed substitute, record it in `BUILD.md`, and inspect the rendered pages.
+Adapt this starting point to the installed TeX distribution and the user's font requirements. In this workflow, SimHei is for headings, SimSun for body text, and KaiTi for tables, typeset figure labels and captions, and supplementary content. Original handwriting retains its source glyphs. If a font is unavailable, use a suitable installed substitute, record it in `BUILD.md`, and inspect the rendered pages.
 
 The Unicode fallbacks below prevent common symbols from disappearing during compilation. Confirm that the chosen fonts include the characters in use.
 
